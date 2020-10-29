@@ -1,0 +1,8 @@
+Pepito, Física, 1, 2, 4
+Pepito, Phyton, 5, 6, 8
+Juancho, Física, 8, 8, 8
+Juancho, Phyton, 8, 8, 8
+Palomo, Física, 8, 8, 8
+Palomo, Phyton, 8, 8, 8
+Pedro, Física, 8, 8, 8
+Pedro, Phyton, 8, 8, 8

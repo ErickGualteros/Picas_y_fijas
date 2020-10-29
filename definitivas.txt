@@ -1,0 +1,8 @@
+Pepito,  Física, 2.25
+Pepito,  Phyton, 6.25
+Juancho,  Física, 8.0
+Juancho,  Phyton, 8.0
+Palomo,  Física, 8.0
+Palomo,  Phyton, 8.0
+Pedro,  Física, 8.0
+Pedro,  Phyton, 8.0
